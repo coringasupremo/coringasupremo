@@ -1,16 +1,16 @@
-## Hi there 👋
+# DOF2 para SA-MP
 
-<!--
-**coringasupremo/coringasupremo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao repositório do DOF2, uma biblioteca para manipulação de arquivos INI no SA-MP.
 
-Here are some ideas to get you started:
+## Documentação
+Veja a [Documentação Completa do DOF2](DOF2_Documentation.md) para funções, exemplos e boas práticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Include
+O arquivo `DOF2.inc` está disponível em [includes/DOF2.inc](includes/DOF2.inc).
+
+## Licença
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Como Usar
+1. Baixe o `DOF2.inc` e adicione-o à pasta `pawno/include` do seu projeto SA-MP.
+2. Consulte a documentação para exemplos de uso.
