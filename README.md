@@ -12,5 +12,5 @@ O arquivo `DOF2.inc` está disponível em [includes/DOF2.inc](includes/DOF2.inc)
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Como Usar
-1. Baixe o `DOF2.inc` e adicione-o à pasta `pawno/include` do seu projeto SA-MP.
-2. Consulte a documentação para exemplos de uso.
+1. Baixe o [DOF2.inc](includes/DOF2.inc) e adicione-o à pasta `pawno/include` do seu projeto SA-MP.
+2. Consulte a [documentação](DOF2_Documentation.md) para exemplos de uso.
