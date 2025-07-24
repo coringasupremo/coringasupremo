@@ -8,11 +8,8 @@
 /*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
  
 /*
- * DOF2.1 Include 1.0.2samp
+ * DOF2
  * San Andreas Multiplayer Version
- * Updated by Collw (github.com/collw)
- *
- * Contributors: w0nht
  *
  * This is a new version of the INI script Double-O-Files.
  * However, it's has completely been rewritten and has now a much better performance.
