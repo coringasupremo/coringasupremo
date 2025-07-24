@@ -24,3 +24,6 @@ server_log.txt
 # Outros arquivos temporários
 *.cache
 *.db
+
+# Pastas específicas do DOF2
+/Users/*.bak  # Ignora backups gerados por DOF2_MakeBackup
