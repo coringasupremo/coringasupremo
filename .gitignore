@@ -1,0 +1,26 @@
+# Arquivos compilados do Pawn
+*.amx
+
+# Arquivos temporários e de backup
+*.bak
+*.tmp
+*.log
+
+# Pastas comuns em projetos SA-MP
+/gamemodes/*.amx
+/filterscripts/*.amx
+/plugins/*.dll
+/plugins/*.so
+
+# Arquivos de configuração do servidor (opcionais)
+server.cfg
+server_log.txt
+
+# Arquivos de IDEs ou editores
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Outros arquivos temporários
+*.cache
+*.db
